@@ -1,0 +1,644 @@
+1503601418376	geckodriver	INFO	geckodriver 0.18.0
+1503601418381	geckodriver	INFO	Listening on 127.0.0.1:57901
+1503601419554	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503601426954	Marionette	INFO	Enabled via --marionette
+1503601435471	Marionette	INFO	Listening on port 34007
+1503601435563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503601435631	Marionette	DEBUG	loaded listener.js
+1503601435710	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503601436151	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503601436151	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503601439694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/watch?v=yhFjXskURFU"
+1503601439787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/watch?v=yhFjXskURFU"
+1503601439813	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/watch?v=yhFjXskURFU"
+1503601439891	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/watch?v=yhFjXskURFU"
+fork(): Operation not permitted
+[Parent 5456] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503602619580	geckodriver	INFO	geckodriver 0.18.0
+1503602619629	geckodriver	INFO	Listening on 127.0.0.1:45787
+1503602620872	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503602624579	Marionette	INFO	Enabled via --marionette
+1503602627755	Marionette	INFO	Listening on port 39849
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503602627959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503602628019	Marionette	DEBUG	loaded listener.js
+1503602628083	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503602628315	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503602628316	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503602629682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/watch?v=yhFjXskURFU"
+1503602630219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503602630222	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400C6,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1503603402551	geckodriver	INFO	geckodriver 0.18.0
+1503603402554	geckodriver	INFO	Listening on 127.0.0.1:45209
+1503603403704	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503603404525	Marionette	INFO	Enabled via --marionette
+1503603406970	Marionette	INFO	Listening on port 33051
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503603407033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503603407082	Marionette	DEBUG	loaded listener.js
+1503603407112	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503603407414	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503603407414	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503603408601	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/watch?v=yhFjXskURFU"
+1503603408625	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/watch?v=yhFjXskURFU"
+1503603408628	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/watch?v=yhFjXskURFU"
+1503603408793	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/watch?v=yhFjXskURFU"
+fork(): Operation not permitted
+1503603413809	Marionette	INFO	New connections will no longer be accepted
+[Child 7440] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7440] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7440] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503603436080	geckodriver	INFO	geckodriver 0.18.0
+1503603436083	geckodriver	INFO	Listening on 127.0.0.1:38661
+1503603437104	geckodriver	INFO	geckodriver 0.18.0
+1503603437107	geckodriver	INFO	Listening on 127.0.0.1:50625
+1503603438240	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503603439298	Marionette	INFO	Enabled via --marionette
+1503603441499	Marionette	INFO	Listening on port 38287
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503603441698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503603441775	Marionette	DEBUG	loaded listener.js
+1503603441809	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503603442109	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503603442110	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503603443764	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/watch?v=yhFjXskURFU"
+1503603443838	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/watch?v=yhFjXskURFU"
+fork(): Operation not permitted
+1503603448895	Marionette	INFO	New connections will no longer be accepted
+[Child 7595] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7595] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503611541663	geckodriver	INFO	geckodriver 0.18.0
+1503611541729	geckodriver	INFO	Listening on 127.0.0.1:48161
+1503611542926	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503611559340	Marionette	INFO	Enabled via --marionette
+1503611573824	Marionette	INFO	Listening on port 39553
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503611573972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503611574024	Marionette	DEBUG	loaded listener.js
+1503611574081	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503611574273	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503611574273	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503611578182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503611579446	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503611579529	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503611579746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1503611579747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1503611579747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1503611579761	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://platform.twitter.com/widgets/follow_button.f8c8d971a6ac545cf416e3c1ad4bbc65.en.html#dnt=false&id=twitter-widget-0&lang=en&screen_name=CoinMKTCap&show_count=false&show_screen_name=true&size=m&time=1503611579436"
+1503611579767	Marionette	DEBUG	Received DOM event "pageshow" for "https://platform.twitter.com/widgets/follow_button.f8c8d971a6ac545cf416e3c1ad4bbc65.en.html#dnt=false&id=twitter-widget-0&lang=en&screen_name=CoinMKTCap&show_count=false&show_screen_name=true&size=m&time=1503611579436"
+1503611579769	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503611579772	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503611579873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503611579876	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503611579878	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503611579881	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503611579921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html"
+1503611579931	Marionette	DEBUG	Received DOM event "pageshow" for "https://acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html"
+1503611580015	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503611580025	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503611580063	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156262&predirect=%2F%2Fcdn.komoona.com%2Fsync%2Fps%3Fp%3D"
+1503611580523	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1503611580523	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1503611580557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://us-u.openx.net/w/1.0/pd?plm=6&ph=57ca98b3-0f60-413c-bb53-ac54bde8cd86"
+1503611580559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://us-u.openx.net/w/1.0/pd?plm=6&ph=3f4dd86f-c3ec-47ac-a405-fc8e7d922afa"
+1503611580759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503611580767	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503611580833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ads.pubmatic.com/AdServer/js/showad.js#PIX&kdntuid=1&SPug=true&p=156262&predirect=%2F%2Fcdn.komoona.com%2Fsync%2Fps%3Fp%3D&it=0&np=0"
+1503611581584	Marionette	DEBUG	Received DOM event "pageshow" for "https://pr-bh.ybp.yahoo.com/sync/pubmatic/7E9EDB35-B528-4F00-B140-ADD6C570E289"
+1503611582025	Marionette	DEBUG	Received DOM event "pageshow" for "https://us-u.openx.net/w/1.0/pd?plm=6&ph=57ca98b3-0f60-413c-bb53-ac54bde8cd86"
+1503611582044	Marionette	DEBUG	Received DOM event "pageshow" for "https://m.adnxs.com/mapuid?member=280&user=0C3BA98D73BB67663577A36577BB6490;"
+1503611582062	Marionette	DEBUG	Received DOM event "pageshow" for "https://sync.adaptv.advertising.com/sync?type=gif&key=pubmatic-55&uid=7E9EDB35-B528-4F00-B140-ADD6C570E289"
+1503611582081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.komoona.com/sync/ps?p=7E9EDB35-B528-4F00-B140-ADD6C570E289"
+1503611582086	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.komoona.com/sync/ps?p=7E9EDB35-B528-4F00-B140-ADD6C570E289"
+1503611582293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503611582330	Marionette	DEBUG	Received DOM event "pageshow" for "https://pub.pxl.ace.advertising.com/cfcm.ashx?providerId=1008&extMatch=1&rcode=1&ctst=1"
+1503611582430	Marionette	DEBUG	Received DOM event "pageshow" for "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTIxNzcmdGw9MTI5NjAw&piggybackCookie=CAESEPPM4w0QbL10TmxUKDohSII&google_cver=1"
+1503611582434	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI3MzkmdGw9MTI5NjAw&piggybackCookie=782289339934687274&r="
+1503611582440	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.pubmatic.com/AdServer/js/showad.js#PIX&kdntuid=1&SPug=true&p=156262&predirect=%2F%2Fcdn.komoona.com%2Fsync%2Fps%3Fp%3D&it=0&np=0"
+1503611582480	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&piggybackCookie=598e9773-fb6b-4085-a21c-a021518dda19"
+1503611582486	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMzNDImdGw9MTI5NjAw&piggybackCookie=u_e367c8ec-f0bd-4849-b797-4cbde4769f2b"
+1503611582489	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMxNzgmdGw9NDMyMDA=&piggybackCookie=86737d2231574fb494b94b51"
+1503611582493	Marionette	DEBUG	Received DOM event "pageshow" for "https://usync.nexage.com/mapuser?providerid=29472&userid=7E9EDB35-B528-4F00-B140-ADD6C570E289;cfp=1"
+1503611582501	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA="
+1503611582504	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://image4.pubmatic.com/AdServer/SPug?partnerID=156020&xid=3WZ9aXTBRBu4BmAqqCQ"
+1503611582506	Marionette	DEBUG	Received DOM event "pageshow" for "https://image4.pubmatic.com/AdServer/SPug?partnerID=156020&xid=3WZ9aXTBRBu4BmAqqCQ"
+1503611582515	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQ2MSZ0bD0xNTc2ODAwAAABcSQrkUrIKgMPZZLCAAAAAAA"
+1503611582557	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503611582785	Marionette	DEBUG	Received DOM event "pageshow" for "https://us-u.openx.net/w/1.0/pd?plm=6&ph=3f4dd86f-c3ec-47ac-a405-fc8e7d922afa"
+1503611582852	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMyMDMmdGw9NDMyMDA=&piggybackCookie=RX-d09684cd-9490-408d-9db0-98ce4646dc9e"
+1503611582872	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-10/html/container.html"
+1503611582948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-10/html/container.html"
+1503611582948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA=&piggybackCookie=WZ9aXwAAAMEm5OvR&_test=WZ9aXwAAAIDYAivG"
+1503611582951	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA=&piggybackCookie=WZ9aXwAAAMEm5OvR&_test=WZ9aXwAAAIDYAivG"
+1503611582981	Marionette	DEBUG	Received DOM event "pageshow" for "https://p.adsymptotic.com/d/px?_pid=10291&_psign=9769cbad30cb221a3996d786047e2b31&_puuid=7E9EDB35-B528-4F00-B140-ADD6C570E289"
+1503611582984	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMwNzMmdGw9MTI5NjAw&piggybackCookie=Q5569019831704746864"
+1503611583001	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMzMjYmdGw9MTI5NjAw&piggybackCookie=18072662362905681705"
+1503611583014	Marionette	DEBUG	Received DOM event "pageshow" for "https://pixel.everesttech.net/1x1"
+1503611583015	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1503611583018	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1503611583019	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1503611583022	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1503611583190	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9Mjk0NSZ0bD0xMjk2MDA=&piggybackCookie=e4a6b392-6fad-4445-bf64-be4abb1ee6ca"
+1503611583193	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9Mjk0NSZ0bD0xMjk2MDA=&piggybackCookie=e4a6b392-6fad-4445-bf64-be4abb1ee6ca"
+1503611583195	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.pubmatic.com/AdServer/js/showad.js#PIX&kdntuid=1&SPug=true&p=156262&predirect=%2F%2Fcdn.komoona.com%2Fsync%2Fps%3Fp%3D&it=0&np=0"
+1503611583200	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156262&predirect=%2F%2Fcdn.komoona.com%2Fsync%2Fps%3Fp%3D"
+1503611583634	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1503611583638	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1503611583645	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-10/html/container.html"
+1503611583884	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1503611583892	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1503611583902	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-10/html/container.html"
+1503611583911	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503611589397	Marionette	INFO	New connections will no longer be accepted
+[Child 11596] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503612254272	geckodriver	INFO	geckodriver 0.18.0
+1503612254325	geckodriver	INFO	Listening on 127.0.0.1:35067
+1503612255670	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503612266450	Marionette	INFO	Enabled via --marionette
+1503612279360	Marionette	INFO	Listening on port 40151
+1503612279436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503612279615	Marionette	DEBUG	loaded listener.js
+1503612279857	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503612280205	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503612280205	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503612282483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503612283369	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503612284237	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503612284242	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1503612284243	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1503612284243	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1503612284281	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503612284289	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503612284289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503612284291	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503612284292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503612284293	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503612284317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503612284321	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503612284358	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html"
+1503612284361	Marionette	DEBUG	Received DOM event "pageshow" for "https://acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html"
+1503612284363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://platform.twitter.com/widgets/follow_button.f8c8d971a6ac545cf416e3c1ad4bbc65.en.html#dnt=false&id=twitter-widget-0&lang=en&screen_name=CoinMKTCap&show_count=false&show_screen_name=true&size=m&time=1503612284221"
+1503612284365	Marionette	DEBUG	Received DOM event "pageshow" for "https://platform.twitter.com/widgets/follow_button.f8c8d971a6ac545cf416e3c1ad4bbc65.en.html#dnt=false&id=twitter-widget-0&lang=en&screen_name=CoinMKTCap&show_count=false&show_screen_name=true&size=m&time=1503612284221"
+1503612284647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1503612284658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156262&predirect=%2F%2Fcdn.komoona.com%2Fsync%2Fps%3Fp%3D"
+1503612284660	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://us-u.openx.net/w/1.0/pd?plm=6&ph=57ca98b3-0f60-413c-bb53-ac54bde8cd86"
+1503612284921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://us-u.openx.net/w/1.0/pd?plm=6&ph=3f4dd86f-c3ec-47ac-a405-fc8e7d922afa"
+1503612287240	Marionette	DEBUG	Received DOM event "pageshow" for "https://m.adnxs.com/mapuid?member=280&user=0A6BFD1091CF61433C66F7F895CF6281;"
+1503612287298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ads.pubmatic.com/AdServer/js/showad.js#PIX&kdntuid=1&SPug=true&p=156262&predirect=%2F%2Fcdn.komoona.com%2Fsync%2Fps%3Fp%3D&it=0&np=0"
+1503612287337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503612287343	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503612287351	Marionette	DEBUG	Received DOM event "pageshow" for "https://us-u.openx.net/w/1.0/pd?plm=6&ph=57ca98b3-0f60-413c-bb53-ac54bde8cd86"
+1503612287409	Marionette	DEBUG	Received DOM event "pageshow" for "https://pr-bh.ybp.yahoo.com/sync/pubmatic/45E71F5F-0409-4731-A63C-376476999B59"
+1503612287438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503612287455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://coinmarketcap.com/"
+1503612287503	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503612287515	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+1503612287605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.komoona.com/sync/ps?p=45E71F5F-0409-4731-A63C-376476999B59"
+1503612287609	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.komoona.com/sync/ps?p=45E71F5F-0409-4731-A63C-376476999B59"
+1503612288103	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.pubmatic.com/AdServer/js/showad.js#PIX&kdntuid=1&SPug=true&p=156262&predirect=%2F%2Fcdn.komoona.com%2Fsync%2Fps%3Fp%3D&it=0&np=0"
+1503612288155	Marionette	DEBUG	Received DOM event "pageshow" for "https://sync.adaptv.advertising.com/sync?type=gif&key=pubmatic-55&uid=45E71F5F-0409-4731-A63C-376476999B59"
+1503612288169	Marionette	DEBUG	Received DOM event "pageshow" for "https://pub.pxl.ace.advertising.com/cfcm.ashx?providerId=1008&extMatch=1&rcode=1&ctst=1"
+1503612288195	Marionette	DEBUG	Received DOM event "pageshow" for "https://usync.nexage.com/mapuser?providerid=29472&userid=45E71F5F-0409-4731-A63C-376476999B59;cfp=1"
+1503612288198	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMzNDImdGw9MTI5NjAw&piggybackCookie=u_acb85646-febf-484d-a819-0e2f15a428fc"
+1503612288204	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI3MzkmdGw9MTI5NjAw&piggybackCookie=969188725356035554&r="
+1503612288207	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&piggybackCookie=3b3bbfd4-8b37-4a56-a4bd-508a4b52b82d"
+1503612288209	Marionette	DEBUG	Received DOM event "pageshow" for "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTIxNzcmdGw9MTI5NjAw&piggybackCookie=CAESEFoxpZdIOuwPcalUrGQ5bz8&google_cver=1"
+1503612288357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-10/html/container.html"
+1503612288377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://image4.pubmatic.com/AdServer/SPug?partnerID=156020&xid=3WZ9dHTCqG6YBL8z6Yw"
+1503612288382	Marionette	DEBUG	Received DOM event "pageshow" for "https://image4.pubmatic.com/AdServer/SPug?partnerID=156020&xid=3WZ9dHTCqG6YBL8z6Yw"
+1503612288387	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMxNzgmdGw9NDMyMDA=&piggybackCookie=57606bece4a14ed4b1340b8c"
+1503612288390	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMwNzMmdGw9MTI5NjAw&piggybackCookie=Q5569026881058115974"
+1503612288406	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQ2MSZ0bD0xNTc2ODAwAAABcSQrkUrKvwMLiX-kAAAAAAA"
+1503612288411	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1503612288414	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1503612288424	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA=&piggybackCookie=WZ9dIAAAAIHvDFxg&_test=WZ9dIAAAAIHvDFxg"
+1503612288427	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA=&piggybackCookie=WZ9dIAAAAIHvDFxg&_test=WZ9dIAAAAIHvDFxg"
+1503612288497	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA="
+1503612288502	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMyMDMmdGw9NDMyMDA=&piggybackCookie=RX-53b17423-135d-4d2b-a271-d431dcdff488"
+1503612288519	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMzMjYmdGw9MTI5NjAw&piggybackCookie=18072662362906949956"
+1503612288551	Marionette	DEBUG	Received DOM event "pageshow" for "https://p.adsymptotic.com/d/px?_pid=10291&_psign=9769cbad30cb221a3996d786047e2b31&_puuid=45E71F5F-0409-4731-A63C-376476999B59"
+1503612288580	Marionette	DEBUG	Received DOM event "pageshow" for "https://pixel.everesttech.net/1x1"
+1503612288599	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9Mjk0NSZ0bD0xMjk2MDA=&piggybackCookie=c640eb19-75c7-495e-b6da-22202986fa93"
+1503612288602	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9Mjk0NSZ0bD0xMjk2MDA=&piggybackCookie=c640eb19-75c7-495e-b6da-22202986fa93"
+1503612288605	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.pubmatic.com/AdServer/js/showad.js#PIX&kdntuid=1&SPug=true&p=156262&predirect=%2F%2Fcdn.komoona.com%2Fsync%2Fps%3Fp%3D&it=0&np=0"
+1503612288607	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156262&predirect=%2F%2Fcdn.komoona.com%2Fsync%2Fps%3Fp%3D"
+1503612288636	Marionette	DEBUG	Received DOM event "pageshow" for "https://us-u.openx.net/w/1.0/pd?plm=6&ph=3f4dd86f-c3ec-47ac-a405-fc8e7d922afa"
+1503612289109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1503612289113	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1503612289120	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-10/html/container.html"
+1503612289129	Marionette	DEBUG	Received DOM event "pageshow" for "https://coinmarketcap.com/"
+JavaScript error: https://files.cointraffic.io/pub/2564/18a77c95f5/index.html, line 296: ReferenceError: Stats is not defined
+1503612296151	Marionette	INFO	New connections will no longer be accepted
+1503612342292	geckodriver	INFO	geckodriver 0.18.0
+1503612342321	geckodriver	INFO	Listening on 127.0.0.1:44285
+1503612343097	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503612356182	Marionette	INFO	Enabled via --marionette
+1503612363336	Marionette	INFO	Listening on port 43237
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503612363442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503612363518	Marionette	DEBUG	loaded listener.js
+1503612363543	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503612364602	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503612364603	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503612364809	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503612365534	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503612365606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503612365608	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503612366376	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503612781076	geckodriver	INFO	geckodriver 0.18.0
+1503612781081	geckodriver	INFO	Listening on 127.0.0.1:44161
+1503612781264	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503612782075	Marionette	INFO	Enabled via --marionette
+1503612784262	Marionette	INFO	Listening on port 42007
+1503612784307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503612784363	Marionette	DEBUG	loaded listener.js
+1503612784474	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503612785498	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503612785499	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503612785625	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503612786291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503612786302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503612786308	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503612786993	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503613667521	geckodriver	INFO	geckodriver 0.18.0
+1503613667525	geckodriver	INFO	Listening on 127.0.0.1:43335
+1503613668666	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503613669366	Marionette	INFO	Enabled via --marionette
+1503613671602	Marionette	INFO	Listening on port 44355
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503613671692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503613671739	Marionette	DEBUG	loaded listener.js
+1503613671764	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503613672203	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503613672204	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503613673573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-csc.html"
+1503613673942	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.yahoo.com/"
+1503613674070	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-csc.html"
+1503613674565	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503613674931	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503613675651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170821/r20170110/zrt_lookup.html#"
+1503613675689	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170821/r20170110/zrt_lookup.html#"
+1503613675715	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503613675786	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503613675789	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503613677142	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503613674909&bpp=14&bdt=1742&fdt=24&idt=529&shv=r20170821&cbv=r20170110&saldr=aa&correlator=5506246283030&frm=24&ga_vid=1049955705.1503613676&ga_sid=1503613676&ga_hid=744713438&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=21060849&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C0%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=616"
+1503613677205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/xbbe/pixel?d=CIYBEPCDWxjrkPEgMAE&v=APEucNVzykQg9u01PxWlorQYXLcHQhvTo3hxpdrQkMi99joDgpuruuDXjAegM_nCqMJ6nitpo-bX"
+1503613677214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503613674909&bpp=14&bdt=1742&fdt=24&idt=529&shv=r20170821&cbv=r20170110&saldr=aa&correlator=5506246283030&frm=24&ga_vid=1049955705.1503613676&ga_sid=1503613676&ga_hid=744713438&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=21060849&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C0%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=616"
+1503613677219	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503613674909&bpp=14&bdt=1742&fdt=24&idt=529&shv=r20170821&cbv=r20170110&saldr=aa&correlator=5506246283030&frm=24&ga_vid=1049955705.1503613676&ga_sid=1503613676&ga_hid=744713438&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=21060849&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C0%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=616"
+1503613677452	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn3.doubleverify.com/bst2tv3.html"
+1503613677455	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn3.doubleverify.com/bst2tv3.html"
+fork(): Operation not permitted
+1503613677799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1503613677802	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1503613678390	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/xbbe/pixel?d=CIYBEPCDWxjrkPEgMAE&v=APEucNVzykQg9u01PxWlorQYXLcHQhvTo3hxpdrQkMi99joDgpuruuDXjAegM_nCqMJ6nitpo-bX"
+1503613678630	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503613674909&bpp=14&bdt=1742&fdt=24&idt=529&shv=r20170821&cbv=r20170110&saldr=aa&correlator=5506246283030&frm=24&ga_vid=1049955705.1503613676&ga_sid=1503613676&ga_hid=744713438&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=21060849&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C0%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=616"
+1503613678716	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503613674909&bpp=14&bdt=1742&fdt=24&idt=529&shv=r20170821&cbv=r20170110&saldr=aa&correlator=5506246283030&frm=24&ga_vid=1049955705.1503613676&ga_sid=1503613676&ga_hid=744713438&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=21060849&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C0%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=616"
+1503613678882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn3.doubleverify.com/t2tv7.html"
+1503613678884	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn3.doubleverify.com/t2tv7.html"
+1503613678889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503613674909&bpp=14&bdt=1742&fdt=24&idt=529&shv=r20170821&cbv=r20170110&saldr=aa&correlator=5506246283030&frm=24&ga_vid=1049955705.1503613676&ga_sid=1503613676&ga_hid=744713438&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=21060849&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C0%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=616"
+1503613679040	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503613674909&bpp=14&bdt=1742&fdt=24&idt=529&shv=r20170821&cbv=r20170110&saldr=aa&correlator=5506246283030&frm=24&ga_vid=1049955705.1503613676&ga_sid=1503613676&ga_hid=744713438&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=21060849&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C0%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=616"
+1503613679046	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503613674909&bpp=14&bdt=1742&fdt=24&idt=529&shv=r20170821&cbv=r20170110&saldr=aa&correlator=5506246283030&frm=24&ga_vid=1049955705.1503613676&ga_sid=1503613676&ga_hid=744713438&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=21060849&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C0%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=616"
+1503613679049	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503613679069	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503613679095	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.yahoo.com/"
+1503614042948	geckodriver	INFO	geckodriver 0.18.0
+1503614042952	geckodriver	INFO	Listening on 127.0.0.1:37005
+1503614044068	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503614044776	Marionette	INFO	Enabled via --marionette
+1503614047520	Marionette	INFO	Listening on port 41151
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503614047666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503614047758	Marionette	DEBUG	loaded listener.js
+1503614047810	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503614048074	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503614048074	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503614049366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-csc.html"
+1503614050116	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.yahoo.com/"
+1503614050211	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-csc.html"
+1503614050739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614051179	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614051792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170821/r20170110/zrt_lookup.html#"
+1503614051800	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170821/r20170110/zrt_lookup.html#"
+1503614051891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614052040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614052042	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614052758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://na.ads.yahoo.com/yax/banner?ve=1&tt=3&si=272904055&asz=300x250&u=yahoo.com"
+1503614053023	Marionette	DEBUG	Received DOM event "pageshow" for "https://na.ads.yahoo.com/yax/banner?ve=1&tt=3&si=272904055&asz=300x250&u=yahoo.com"
+1503614053025	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614053037	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614053053	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.yahoo.com/"
+1503614053468	Marionette	INFO	New connections will no longer be accepted
+[Child 13216] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503614107104	geckodriver	INFO	geckodriver 0.18.0
+1503614107108	geckodriver	INFO	Listening on 127.0.0.1:55387
+1503614108252	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503614108936	Marionette	INFO	Enabled via --marionette
+1503614111486	Marionette	INFO	Listening on port 38117
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503614111661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503614111725	Marionette	DEBUG	loaded listener.js
+1503614111763	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503614112097	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503614112097	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503614114215	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.yahoo.com/"
+1503614114693	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-csc.html"
+1503614114790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614114820	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-csc.html"
+1503614115288	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614115896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170821/r20170110/zrt_lookup.html#"
+1503614115903	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170821/r20170110/zrt_lookup.html#"
+1503614116031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614116104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614116106	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614117104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1503614117109	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1503614117171	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503614115259&bpp=21&bdt=1527&fdt=32&idt=570&shv=r20170821&cbv=r20170110&saldr=aa&correlator=7961884520205&frm=24&ga_vid=26659897.1503614116&ga_sid=1503614116&ga_hid=311616115&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=389613004%2C21060714%2C25070060&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C638%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=611"
+1503614117392	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1503614117396	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1503614117539	Marionette	DEBUG	Received DOM event "pageshow" for "https://p4-cz6yg7j2sgjx6-lmmragjcsbptbp6s-if-v6exp3-v4.metric.gstatic.com/v6exp3/redir.html"
+1503614117544	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503614115259&bpp=21&bdt=1527&fdt=32&idt=570&shv=r20170821&cbv=r20170110&saldr=aa&correlator=7961884520205&frm=24&ga_vid=26659897.1503614116&ga_sid=1503614116&ga_hid=311616115&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=389613004%2C21060714%2C25070060&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C638%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=611"
+1503614117552	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503614115259&bpp=21&bdt=1527&fdt=32&idt=570&shv=r20170821&cbv=r20170110&saldr=aa&correlator=7961884520205&frm=24&ga_vid=26659897.1503614116&ga_sid=1503614116&ga_hid=311616115&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=389613004%2C21060714%2C25070060&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C638%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=611"
+1503614117555	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614117568	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614117591	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://p4-cz6yg7j2sgjx6-lmmragjcsbptbp6s-if-v6exp3-v4.metric.gstatic.com/v6exp3/redir.html"
+1503614117609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503614115259&bpp=21&bdt=1527&fdt=32&idt=570&shv=r20170821&cbv=r20170110&saldr=aa&correlator=7961884520205&frm=24&ga_vid=26659897.1503614116&ga_sid=1503614116&ga_hid=311616115&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=389613004%2C21060714%2C25070060&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C638%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=611"
+1503614117615	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503614115259&bpp=21&bdt=1527&fdt=32&idt=570&shv=r20170821&cbv=r20170110&saldr=aa&correlator=7961884520205&frm=24&ga_vid=26659897.1503614116&ga_sid=1503614116&ga_hid=311616115&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=389613004%2C21060714%2C25070060&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C638%2C0%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=611"
+1503614117894	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1503614117921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://p4-cz6yg7j2sgjx6-lmmragjcsbptbp6s-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html"
+1503614117924	Marionette	DEBUG	Received DOM event "pageshow" for "https://p4-cz6yg7j2sgjx6-lmmragjcsbptbp6s-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html"
+1503614136346	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.yahoo.com/"
+1503614159193	geckodriver	INFO	geckodriver 0.18.0
+1503614159197	geckodriver	INFO	Listening on 127.0.0.1:38947
+1503614160329	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503614161074	Marionette	INFO	Enabled via --marionette
+1503614163558	Marionette	INFO	Listening on port 36845
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503614163658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503614163739	Marionette	DEBUG	loaded listener.js
+1503614163765	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503614164150	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503614164150	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503614165998	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.yahoo.com/"
+1503614165999	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-csc.html"
+1503614166134	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-csc.html"
+1503614166452	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614166904	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614167545	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614167595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170821/r20170110/zrt_lookup.html#"
+1503614167614	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170821/r20170110/zrt_lookup.html#"
+1503614167732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614167740	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614168714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&loeid=368226015&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503614166886&bpp=13&bdt=1482&fdt=20&idt=499&shv=r20170821&cbv=r20170110&saldr=aa&correlator=2422615622793&frm=24&ga_vid=251461614.1503614167&ga_sid=1503614167&ga_hid=879972667&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=368226005%2C20040041%2C21060849&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C0%2C54%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=540"
+1503614168764	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1503614168768	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1503614168789	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zeW5jLm1hdGh0YWcuY29tL3N5bmMvaW1nP210X2V4aWQ9NCZnb29nbGVfZ2lkPUNBRVNFSGJqV0FBNDNESVVXVG5HZU1HQjMtNCZnb29nbGVfY3Zlcj0xJmdvb2dsZV9wdXNoPUFITkYxM0lZWnFoX2JiSEY1Rkp5ZmdrMmxjVGhtaHN5NnhRVEIxcDUzb3BqNmc=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzTHFIbjhJaU5XQkh3MEJZc192YWlCcXF6aGQxd1VD"
+1503614169207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1503614169219	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1503614169263	Marionette	DEBUG	Received DOM event "pageshow" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zeW5jLm1hdGh0YWcuY29tL3N5bmMvaW1nP210X2V4aWQ9NCZnb29nbGVfZ2lkPUNBRVNFSGJqV0FBNDNESVVXVG5HZU1HQjMtNCZnb29nbGVfY3Zlcj0xJmdvb2dsZV9wdXNoPUFITkYxM0lZWnFoX2JiSEY1Rkp5ZmdrMmxjVGhtaHN5NnhRVEIxcDUzb3BqNmc=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzTHFIbjhJaU5XQkh3MEJZc192YWlCcXF6aGQxd1VD"
+1503614169275	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&loeid=368226015&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503614166886&bpp=13&bdt=1482&fdt=20&idt=499&shv=r20170821&cbv=r20170110&saldr=aa&correlator=2422615622793&frm=24&ga_vid=251461614.1503614167&ga_sid=1503614167&ga_hid=879972667&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=368226005%2C20040041%2C21060849&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C0%2C54%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=540"
+1503614169281	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5786243031610172&format=300x250&output=html&h=250&slotname=4233768522&adk=2812691012&adf=2170632788&w=300&loeid=368226015&avail_w=0&ea=0&flash=0&hl=en&url=https%3A%2F%2Fwww.yahoo.com&wgl=1&dt=1503614166886&bpp=13&bdt=1482&fdt=20&idt=499&shv=r20170821&cbv=r20170110&saldr=aa&correlator=2422615622793&frm=24&ga_vid=251461614.1503614167&ga_sid=1503614167&ga_hid=879972667&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=33554432&mso=0&u_tz=-240&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=0&ish=0&ifk=2758712982&eid=368226005%2C20040041%2C21060849&oid=3&loc=https%3A%2F%2Fwww.yahoo.com%2F&rx=0&eae=3&brdim=%2C%2C0%2C54%2C1920%2C0%2C1280%2C972%2C0%2C0&vis=1&rsz=%7C%7Cc%7C&abl=NS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&dtd=540"
+1503614169283	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614169299	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614169322	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.yahoo.com/"
+1503614169658	Marionette	INFO	New connections will no longer be accepted
+[Child 13487] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503614219495	geckodriver	INFO	geckodriver 0.18.0
+1503614219499	geckodriver	INFO	Listening on 127.0.0.1:34641
+1503614220652	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503614223125	Marionette	INFO	Enabled via --marionette
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1656, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1656, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1656, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1656, column: 0
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1503614227008	Marionette	INFO	Listening on port 41929
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503614227112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503614227221	Marionette	DEBUG	loaded listener.js
+1503614227266	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503614227587	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503614227587	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503614229736	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.yahoo.com/"
+1503614229868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-csc.html"
+1503614230111	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614230133	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-csc.html"
+1503614230706	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614231447	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614231483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170821/r20170110/zrt_lookup.html#"
+1503614231493	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170821/r20170110/zrt_lookup.html#"
+1503614231610	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614231612	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614232147	Marionette	DEBUG	Received DOM event "pageshow" for "https://na.ads.yahoo.com/yax/banner?ve=1&tt=3&si=272904055&asz=300x250&u=yahoo.com"
+1503614232165	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://na.ads.yahoo.com/yax/banner?ve=1&tt=3&si=272904055&asz=300x250&u=yahoo.com"
+1503614232725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.yimg.com/gs/apex/mediastore/994f8391-eaa1-44c8-bf59-5289b17b2868/48a80e7a-fae3-441a-a515-e3842bd0667e.html"
+1503614232736	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/gs/apex/mediastore/994f8391-eaa1-44c8-bf59-5289b17b2868/48a80e7a-fae3-441a-a515-e3842bd0667e.html"
+1503614232742	Marionette	DEBUG	Received DOM event "pageshow" for "https://na.ads.yahoo.com/yax/banner?ve=1&tt=3&si=272904055&asz=300x250&u=yahoo.com"
+1503614232745	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614232759	Marionette	DEBUG	Received DOM event "pageshow" for "https://s.yimg.com/rq/darla/2-9-20/html/r-sf.html"
+1503614232780	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.yahoo.com/"
+1503614245039	Marionette	INFO	New connections will no longer be accepted
+[Child 13650] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13650] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1503614528812	geckodriver	INFO	geckodriver 0.18.0
+1503614528815	geckodriver	INFO	Listening on 127.0.0.1:58275
+1503614529968	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503614530666	Marionette	INFO	Enabled via --marionette
+1503614532660	Marionette	INFO	Listening on port 34981
+1503614532700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503614532807	Marionette	DEBUG	loaded listener.js
+1503614532846	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503614533779	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503614533780	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503614534019	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503614534733	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503614534736	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503614534739	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503614535389	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503614575023	geckodriver	INFO	geckodriver 0.18.0
+1503614575027	geckodriver	INFO	Listening on 127.0.0.1:47311
+1503614576203	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503614576941	Marionette	INFO	Enabled via --marionette
+1503614579776	Marionette	INFO	Listening on port 34069
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503614579836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503614579886	Marionette	DEBUG	loaded listener.js
+1503614579917	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503614580840	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503614580840	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503614581065	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503614581834	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503614581837	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503614581841	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503614582470	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503614705958	geckodriver	INFO	geckodriver 0.18.0
+1503614705962	geckodriver	INFO	Listening on 127.0.0.1:43827
+1503614707113	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503614707862	Marionette	INFO	Enabled via --marionette
+1503614710314	Marionette	INFO	Listening on port 42289
+1503614710355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503614710404	Marionette	DEBUG	loaded listener.js
+1503614710431	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503614711353	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503614711353	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503614711560	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503614712230	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503614712239	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503614712246	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503614712917	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503614790410	geckodriver	INFO	geckodriver 0.18.0
+1503614790415	geckodriver	INFO	Listening on 127.0.0.1:40779
+1503614791572	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503614792427	Marionette	INFO	Enabled via --marionette
+1503614795734	Marionette	INFO	Listening on port 33529
+1503614796052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503614796114	Marionette	DEBUG	loaded listener.js
+1503614796152	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503614797320	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503614797321	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503614797559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503614798177	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503614798182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503614798191	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503614798808	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.18.5_23b0de6da0ee295131e32a500470610c_min.js, line 15: TypeError: X(...) is null
+TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+_fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:458:19
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Line: 1281, column: 20
+console.error: 
+  TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+_fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:458:19
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Line: 1281, column: 20
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+1503615168498	geckodriver	INFO	geckodriver 0.18.0
+1503615168502	geckodriver	INFO	Listening on 127.0.0.1:46585
+1503615168654	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503615169428	Marionette	INFO	Enabled via --marionette
+1503615172601	Marionette	INFO	Listening on port 38133
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1503615172693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503615172742	Marionette	DEBUG	loaded listener.js
+1503615172790	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503615173677	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503615173677	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503615173883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503615174681	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1503615174685	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/?gws_rd=ssl"
+1503615174689	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503615175434	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/?gws_rd=ssl"
+1503615187622	Marionette	INFO	New connections will no longer be accepted
+[Child 14727] WARNING: pipe error (32): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14727] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14727] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1656, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1656, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1656, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1656, column: 0
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
