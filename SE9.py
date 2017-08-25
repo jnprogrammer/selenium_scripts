@@ -1,25 +1,30 @@
 import time
+import highlight
 from selenium import webdriver
+import tkinter as tk
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.support.ui import Select
+
 
 browser = webdriver.Chrome()
-actions = ActionChains(browser)
-#browser = webdriver.Firefox()
+
+
 FirstName = "Phoenix"
 LastName = "Wright"
 Email = "AceAttorney@gmail.com"
 PassWord = "changeThis_1"
-#browser.get('http://www.yahoo.com')
+
 browser.get('https://courses.ultimateqa.com/users/sign_in')
-#assert 'Yahoo!' in browser.title
-browser.implicitly_wait(8)
-#elem = browser.find_element_by_id('uh-search-box')  # Find the search box  lst-ib
+
+
+
 elem = browser.find_element_by_link_text('Create a new account')
 
-browser.implicitly_wait(4)
+highlight.highlight(elem) #highlights link about to be clicked
+
+browser.implicitly_wait(5)
 elem.click()
-#browser.wind
+
 elem = browser.find_element_by_id('user_first_name')
 elem.send_keys(FirstName)
 elem = browser.find_element_by_id('user_last_name')
@@ -28,6 +33,10 @@ elem = browser.find_element_by_id('user_email')
 elem.send_keys(Email)
 elem = browser.find_element_by_id('user_password')
 elem.send_keys(PassWord + Keys.ENTER)
+
+#copied
+print()
+
 
 time.sleep(5)
 browser.quit()

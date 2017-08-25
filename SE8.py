@@ -19,7 +19,7 @@ browser.implicitly_wait(8)
 #elem = browser.find_element_by_id('uh-search-box')  # Find the search box  lst-ib
 elem = browser.find_element_by_link_text('Create a new account')
 
-browser.implicitly_wait(4)
+browser.implicitly_wait(12)
 elem.click()
 #browser.wind
 elem = browser.find_element_by_id('user_first_name')
