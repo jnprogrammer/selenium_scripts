@@ -12,7 +12,7 @@ browser.get('https://courses.ultimateqa.com/users/sign_in')
 elem = browser.find_element_by_id('user_email')  # Find the search box  lst-ib
 elem.send_keys('ThisisFAKE@NEEDHelp.com' + Keys.TAB)
 elem = browser.find_element_by_id('user_password')
-elem.send_keys('FakeAsFUCKPasswOrd' + Keys.ENTER)
+elem.send_keys('FakePasswOrd' + Keys.ENTER)
 
 
 
