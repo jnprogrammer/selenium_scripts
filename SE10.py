@@ -3,5 +3,7 @@ import highlight
 from selenium import webdriver
 
 from selenium.webdriver.common.keys import Keys
+chrome = webdriver.Chrome()
 
-https://www.ultimateqa.com/complicated-page/
+chrome.get("https://www.ultimateqa.com/complicated-page/")
+

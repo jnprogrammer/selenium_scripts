@@ -1,7 +1,7 @@
 import time
 import highlight
 from selenium import webdriver
-import tkinter as tk
+
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 
